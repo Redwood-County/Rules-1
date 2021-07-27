@@ -1,4 +1,4 @@
-## Wetboek Redwood county (Regels)
+## Code of law Redwood county (Rules)
 
 ## Artikel 1
 
