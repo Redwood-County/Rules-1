@@ -1,6 +1,6 @@
 ## Code of law Redwood county (Rules)
 
-General Rules
+**General Rules**
 
 Welcome to Redwood County!
 Our server is mainly focused on RP, we are a semi realistic RP server.
@@ -34,7 +34,7 @@ Use common sense.
 
 
 
-Player Reports and Bans
+**Player Reports and Bans**
 
 These can be posted in game / in our discord  using the /report feature ingame or make a ticket in our discord server. 
 
@@ -43,7 +43,7 @@ Staff will still need the ID (press Z - will be number above their head) of the 
 Staff will also actively enforce community rules and guidelines without reports.
 In order for staff to enforce rules without reports, we will still need the players ID, which can be gotten by pressing Z.
 
-In-Game Information
+**In-Game Information**
 
 Stay in character at all times:
 In the event there’s an issue, completely role-play out the scenario and report the player if needed. 
@@ -52,24 +52,24 @@ Do not break character / inform the player they are breaking a rule in-game.
 Do not do actions in game in order to bait others into breaking roleplay.
 (Doing this will result in a 2 hour ban!)
 
-/OOC usage:
+**/OOC usage:
 
 OOC Chat isn’t meant for chatting or RP, OOC Chat is meant for technical issues only and is for things that cannot be handled in a support channel through discord.
 
 
-Server Restarts:
+**Server Restarts:**
 Roleplay shouldn’t be stopped or become less serious before a restart; it should continue as normal.
 
-Loot boxing:
+**Loot boxing:**
 Looting any player without much roleplay presented for them is prohibited.
 
 
 
 
-Metagaming:
+**Metagaming:**
 Purposely using or relaying information that your character did not learn in-game (Twitch Chats and Discord Channels included) to shape in-game roleplay.
 
-Powergaming/Fail RP:
+**Powergaming/Fail RP:**
 
 Using means not actually in-game to gain an advantage or not attempting to fit in to the world in a sensible way:
 Talking/Organizing/Calling out locations while downed.
@@ -83,22 +83,22 @@ Driving at unrealistic speeds with no character reason over and over.
 
 Government employees not obeying road laws.
 
-Random Death Match(RDM) & Vehicle Death Match (VDM):
+**Random Death Match(RDM) & Vehicle Death Match (VDM):**
 Attacking another player/group without any story/roleplay leading up to it.
 Attacking another player/group using a Vehicle with the intent to kill/knock them out without valid reasoning or initiation.
 Speed (100+) attacking other vehicles (Ramming).
 
-New Life Rule (NLR):
+**New Life Rule (NLR):**
 If you are downed and respawn at the hospital your character forgets the immediate events leading up to being downed in the current scenario. 
 
 You may not respawn if you’ve been advised that police or EMS is on the way to your scene.
 
 You must try and contact medical help of some sort while incapacitated.
 
-Multiple Characters(from the same player) in one gang/group):
+**Multiple Characters(from the same player) in one gang/group):**
 This is not allowed. In general, try to avoid creating multiple characters involved in the same story/scenarios and could use the same information to push their goals.
 
-Not Valuing Life (NVL):
+**Not Valuing Life (NVL):**
 Not realistically fearing for your life when you are threatened with weapons or severe harm from other means.
 
 Having non-spontaneous shoot outs at PD or hospital is not allowed.
@@ -108,7 +108,7 @@ Antagonizing gangs/police or armed individuals for no character reason.
 Players should not be inserting themselves into ongoing situations or shootouts, between two groups or one group and the police.
 
 
-Criminal Activities:
+**Criminal Activities:**
 Criminal activities are limited to 5 players max at a time.
 Relaying information to or between characters (lookouts, radio communications) counts you as part of that scenario.
 
@@ -131,7 +131,7 @@ You are not allowed to smuggle items into jail, unless you are participating in 
 
 (The more guns you have the more risk you have of getting raided.)
 
-Economy:
+**Economy:**
 
 
 Our economy is specially designed to enforce roleplay and to remove grinding a long  time to start any type of RP.
@@ -142,20 +142,20 @@ Grinding is strongly discouraged, we encourage players to RP for their money we 
 
 
 
-Mic spamming:
+**Mic spamming:**
 Playing loud music through your microphone is not allowed.
 
 Playing normal music through your microphone is allowed if it’s done in an RP scenario or to start RP.
 
 
-Redwood County
+**Redwood County**
 
 Our goal is to foster a roleplaying experience free from constraints
 We strive to create a fun roleplaying experience for beginner and experienced players
 
-We hope that everybody has a good time on our server, and we hope to make a difference in the FiveM Roleplaying Community!
+**We hope that everybody has a good time on our server, and we hope to make a difference in the FiveM Roleplaying Community!**
 
-~The Redwood Team
+**~The Redwood Team**
 
 𝓣𝓱𝓮 𝓟𝓻𝓮𝓼𝓲𝓭𝓮𝓷𝓽#6666
 Claire Redfield#4951
